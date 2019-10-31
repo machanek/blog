@@ -5,6 +5,7 @@
   "description": "Feature-rich blog with streamlined design.",
   "license": "MIT",
   "dependencies": {
+    "@openfonts/open-sans_latin": "^1.43.0",
     "fontfaceobserver": "^2.0.13",
     "gatsby": "^2.1.30",
     "gatsby-image": "^2.2.18",
@@ -50,6 +51,7 @@
     "react-share": "^2.2.0",
     "react-visibility-sensor": "^5.1.1",
     "rehype-react": "^3.1.0",
+    "roboto-fontface": "^0.10.0",
     "styled-jsx": "^2.2.7",
     "styled-jsx-plugin-postcss": "^0.1.3",
     "styled-jsx-plugin-stylelint": "^0.1.0",

@@ -12,7 +12,7 @@ class Contact extends React.Component {
     super(props)
     this.state = {
       name: "",
-      email: "", // honeypot
+      email: "aneta.jankowska@wp.pl", // honeypot
       emailReal: "",
       message: ""
     }
@@ -100,7 +100,7 @@ class Contact extends React.Component {
                 data-netlify="true"
               >
                 <label className="formItem" >
-                  Name (optional):<br/>
+                  Imię:<br/>
                   <input
                     type="text"
                     name="name"
@@ -110,7 +110,7 @@ class Contact extends React.Component {
                 </label>
                 <br/><br/>
                 <label className="formItem" >
-                  E-mail (optional):<br/>
+                  E-mail:<br/>
                   <input
                     type="email"
                     name="emailReal"
@@ -127,7 +127,7 @@ class Contact extends React.Component {
                   style={{display: "none"}}
                 />
                 <label className="formItem" >
-                  Message:<br/>
+                  Wiadomość:<br/>
                   <textarea
                     name="message"
                     required={true}
@@ -138,14 +138,17 @@ class Contact extends React.Component {
                 <br/><br/>
                 <input
                   type="submit"
-                  value="Submit"
+                  value="Wyślij"
                   id="submitButton"
                   className="formItem" 
                 />
                 {contactPostAddress === "" && (
-                  <h1>Undefined contactPostAddress!</h1>
+                  <h1><br></br></h1>
                 )}
               </form>
+              <h2>Kontakt email : aneta.jaworska@wp.pl<br>
+              </br> </h2><h3>Kontakt telefoniczny: +48 634-273-011
+              </h3>
 
               {/* --- STYLES --- */}
               <style jsx>{`
@@ -153,7 +156,7 @@ class Contact extends React.Component {
                   width: 100%;
                   border-radius: 5px;
                   border-width: 2px;
-                  font-family: Open Sans;
+                  font-family: Roboto;
                   font-weight: 400;
                   font-size: 1em;
                 }

@@ -1,43 +1,44 @@
 ---
-title: Apteczka rowerowa, potrzebna czy też nie ?
+title: Apteczka rowerowa, potrzebna czy nie ?
 tags: ["apteczka", "rower", "zdrowie"]
-cover: mailboxes.jpg
+cover: apteczka-rowerowa.jpg
 author: atte juvonen
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
+Apteczka rowerowa, potrzebna czy też nie? Wiele spornych opinii, jednak Ci którzy wyruszają w dalekie podróże jednogłośnie mówią, tak. Zachęcają innych do zaopatrzenia się w podstawowe akcesoria. 
 
-<re-img src="mailboxes.jpg" title="Photo by Mathyas Kurmann on Unsplash"></re-img>
+Wiele osób, uważa, że jest ona stanowczo niepotrzebna, do czasu gdy przychodzi niespodziewane zdarzenie. Wtedy odnajdujemy ją szybko, a przez głowę przebiegają myśli, jak to dobrze, że z nami była.
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+<re-img src="apteczka-rowerowa.jpg" title="Photo by Mathyas Kurmann on Unsplash"></re-img>
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
+Po pierwsze warto pamiętać, by nasza podręczna apteczka była w widocznym miejscu, a nie na dnie bagażu. W razie jakiejś niespodziewanej potrzeby szybko odnajdziemy potrzebne opatrunki, a nie będziemy przeszukiwać torby. Po drugie pojemnik, w którym będą znajdować się nasze opatrunki i leki powinien, a raczej musi być wodoszczelny. 
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+Jeśli, jednak takiego nie mamy, wielu forumowiczów poleca woreczki strunowe, by zapakować w nie wyposażenie. Ostatnim punktem jest oczywiście oznaczenie apteczki. Skoro jesteśmy w Unii, warto pamiętać, że zaleca ona biały krzyż na zielonym tle, oczywiście na czerwonym też jest dopuszczalny.
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
+> Z policyjnych danych wynika, że w 2017 roku rowerzyści uczestniczyli w 4 212 wypadkach. Zginęło w nich 220 rowerzystów, a rany odniosły 3 824 osoby (3800 kierujących rowerami i 24 pasażerów).
 
-### Cras semper consectetur elementum
+Skoro apteczka rowerowa, więc najlepiej gdyby była przyczepiona do ramy roweru, kierownicy, pod siodełkiem, tak by nie przeszkadzała w czasie jazdy.
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+## Wyposażenie apteczki
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-:100: Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Niewielkie opakowanie, co w nie zmieścić. Opcji mamy wiele, jednak, którą wybrać? Zabieramy najpotrzebniejsze, niezbędne elementy, bandaż, opatrunki, plaster.
+Podstawowy zestaw, każdy musi dobrać wszystkie akcesoria do siebie, warto przejrzeć dostępne spisy, by o niczym nie zapomnieć, dla ułatwienia lista potrzebnych rzeczy :
 
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
+* bandaż elastyczny, 
+* kompresy jałowe, 
+* plaster, 
+* plaster z opatrunkiem, 
+* środek do odkażania ran (obecnie zalecany Octanisept, warto poszukać takiego w wygodnym atomizerze), 
+* małe nożyczki lub ewentualnie nożyk, 
+* rękawiczki jednorazowe, 
+* maseczka do sztucznego oddychania oraz koc ratunkowy (folia NRC).
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros `bibendum cursus` nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+Ostatni element jest bardzo ważny, niewielkie opakowanie, prawie niezajmujące miejsca, a ma wiele właściwości. Chroni przed wychłodzenie, a gdy odwrócimy na drugą stronę, zapobiegnie przegrzaniu organizmu.
 
-```javascript
-import { createMuiTheme } from "material-ui/styles";
-import Color from "color";
-import colors from "./colors";
-```
+Kilka podstawowych rzeczy, a może nawet uratować życie. Warto pamiętać, że w nagłych, niespodziewanych przypadkach liczy się czasem każda minuta, zanim karetka dotrze możemy sobie, albo komuś innemu dać szansę by żyć.
 
-Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+Zestaw podstawowy pod ręką, czasem warto do torby spakować kilka dodatkowych elementów, nie są one niezbędne, jednak bardzo przydatne. Preparaty na biegunkę, tabletki przeciwbólowe, przeciwgorączkowe, krem na odparzenia skóry, balsam do opalania z dobrym filtrem, w przypadku oparzeń coś z panthenolem, który uśmierzy poparzenia., żele przeciwbólowe i przeciwzapalne, pętelka na kleszcze, środki odstraszające komary, a gdy już zostaniemy pogryzieni coś po ukąszeniu.
 
-### Donec hendrerit laoreet risus eget adipiscing.
+Sporo tego, jednak gdy wiemy, że w pobliżu nie znajdziemy apteki, wszystko może się przydać. Daleko od domu nie otworzymy szafki i nie wyciągniemy potrzebnej rzeczy. Jeśli wybieramy się w daleką podróż, na kilka dni, warto zaopatrzyć się w kilka niezbędnych elementów jak termometr, krople do oczu, czy przydatne leki, preparaty, które stosujemy na stałe.
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.
-
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+**Apteczka rowerowa to trudny temat, nigdy nie wiadomo co do niej wpakować, z czasem każdy rowerowy podróżnik sam zdecyduje co mu jest bardziej, a co mniej potrzebne. Wiesz już co musi znaleźć się w Twojej podręcznej apteczce?**

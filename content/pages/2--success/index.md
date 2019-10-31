@@ -1,5 +1,5 @@
 ---
-title: Delivered
+title: Dostarczone
 ---
 
-Thanks for reaching out. Your message is safely in my inbox. <br />
+Dziękuję za skontaktowanie się. Twoja wiadomość jest bezpiecznie w mojej skrzynce odbiorczej. <br />

@@ -26,9 +26,13 @@ const FollowPage = props => {
           <React.Fragment>
             <Article theme={theme}>
               <header>
-                <Headline title="Follow" theme={theme} />
+                <Headline title="Cennik" theme={theme} />
               </header>
-              <p>Hear about new posts by either RSS or Email.</p>
+              <p>Koszt konsulatacji logopedycznych 120 zł/60 minut.<br></br>
+              Koszt konsulatacji neurlogopedycznych 150 zł/60 minut.<br></br>
+              Pakiet dziesięciu wizyt 60 minutowych 900 zł.<br></br>
+              W przypadku pytań proszę o kontakt.
+              </p>
 
               <a href="../rss.xml" target="_blank">
                 <section className="subContainer">

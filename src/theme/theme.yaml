@@ -57,7 +57,7 @@ color:
     black: '#000000'
   
   brand:
-    primary: &color-brand-primary '#E39E22' #'#07889B' #'#C0B283' #'#856084' #'#616247'
+    primary: &color-brand-primary '#726da8' #'#07889B' #'#C0B283' #'#856084' #'#616247'
     primaryLight: '#f9ebd2'
     primaryDark: '#B67A0E'
     hover: &color-brand-hover '#C09F80' #'#E37222' #'#DCD0C0' #'#9f7a9d'
@@ -67,13 +67,13 @@ color:
     dark: '#709425'
     darkActive: '#709425'
   special:
-    attention: &color-special-attention '#E37222' #'#76323F' #'#E37222' #'#C0B283' #'#624761'
+    attention: &color-special-attention '#7D8CC4' #'#76323F' #'#E37222' #'#C0B283' #'#624761'
 # FONT
 font:
   # font options
   family:
     initial: 'Arial, sans-serif'
-    target: &font-family-target 'Open Sans'
+    target: &font-family-target 'Roboto'
   weight:
     standard: 400
     bold: 600

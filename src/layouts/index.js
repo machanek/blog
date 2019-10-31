@@ -1,7 +1,10 @@
 import PropTypes from "prop-types";
 import React from "react";
 
-import { getScreenWidth, timeoutThrottlerHandler } from "../utils/helpers";
+import {
+  getScreenWidth,
+  timeoutThrottlerHandler
+} from "../utils/helpers";
 import Footer from "../components/Footer/";
 import Header from "../components/Header";
 
@@ -9,8 +12,8 @@ export const ThemeContext = React.createContext(null);
 export const ScreenWidthContext = React.createContext(0);
 
 import themeObjectFromYaml from "../theme/theme.yaml";
-
-import 'typeface-open-sans/index.css'
+import 'roboto-fontface/css/roboto/roboto-fontface.css'
+//import 'typeface-open-sans/index.css' poprzednia czcionka
 
 class Layout extends React.Component {
   constructor() {
@@ -39,7 +42,9 @@ class Layout extends React.Component {
   };
 
   resizeHandler = () => {
-    this.setState({ screenWidth: getScreenWidth() });
+    this.setState({
+      screenWidth: getScreenWidth()
+    });
   };
 
   isHomePage = () => {
@@ -51,20 +56,38 @@ class Layout extends React.Component {
   };
 
   render() {
-    const { children } = this.props;
+    const {
+      children
+    } = this.props;
 
-    return (
-      <ThemeContext.Provider value={this.state.theme}>
-        <ScreenWidthContext.Provider value={this.state.screenWidth}>
-          <div className="highest-container">
-            <Header
-              path={this.props.location.pathname}
-              theme={this.state.theme}
-            />
-            <main>{children}</main>
-            <Footer theme={this.state.theme} />
-          </div>
-          <style jsx>{`
+    return ( <
+      ThemeContext.Provider value = {
+        this.state.theme
+      } >
+      <
+      ScreenWidthContext.Provider value = {
+        this.state.screenWidth
+      } >
+      <
+      div className = "highest-container" >
+      <
+      Header path = {
+        this.props.location.pathname
+      }
+      theme = {
+        this.state.theme
+      }
+      /> <
+      main > {
+        children
+      } < /main> <
+      Footer theme = {
+        this.state.theme
+      }
+      /> <
+      /div> <
+      style jsx > {
+        `
             .highest-container {
               min-height: 100%;
               position: relative;
@@ -72,8 +95,10 @@ class Layout extends React.Component {
             main {
               padding-bottom: 80px;
             }
-          `}</style>
-          <style jsx global>{`
+          `
+      } < /style> <
+      style jsx global > {
+        `
             html {
               box-sizing: border-box;
             }
@@ -94,14 +119,14 @@ class Layout extends React.Component {
               padding: 0;
             }
             body {
-              font-family: 'Open Sans', 'Arial', 'sans-serif';
+              font-family: 'Roboto', 'Arial', 'sans-serif';
               font-weight: 400;
             }
             h1,
             h2,
             h3 {
               font-weight: 600;
-              font-family: 'Open Sans', 'Arial', 'sans-serif';
+              font-family: 'Roboto', 'Arial', 'sans-serif';
               line-height: 1.1;
               letter-spacing: -0.03em;
               margin: 0;
@@ -113,7 +138,7 @@ class Layout extends React.Component {
               margin: 0;
             }
             strong {
-              font-family: 'Open Sans', 'Arial', 'sans-serif';
+              font-family: 'Roboto', 'Arial', 'sans-serif';
               font-weight: 600;
             }
             a {
@@ -130,9 +155,10 @@ class Layout extends React.Component {
             th, td {
               padding: 5px;
             }
-          `}</style>
-        </ScreenWidthContext.Provider>
-      </ThemeContext.Provider>
+          `
+      } < /style> <
+      /ScreenWidthContext.Provider> <
+      /ThemeContext.Provider>
     )
   }
 }
